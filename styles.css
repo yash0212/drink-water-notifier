@@ -1,0 +1,20 @@
+.card-title {
+    font-weight: bold !important;
+    margin-bottom: 25px !important;
+}
+.water-glass-img {
+    max-width: 200px;
+}
+
+.timer-container {
+    margin-top: 10px;
+}
+
+input {
+    padding: 0 10px;
+}
+
+.colon {
+    font-size: 23px;
+    font-weight: bolder;
+}
