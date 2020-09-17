@@ -1,7 +1,7 @@
 {
     "name": "Don't Forget to drink water",
     "short_name": "Drink Water",
-    "start_url": "/index.html",
+    "start_url": "/drink-water-notifier/index.html",
     "display": "standalone",
     "background_color": "#00ACC1",
     "theme_color": "#00ACC1",
